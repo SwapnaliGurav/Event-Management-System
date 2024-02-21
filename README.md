@@ -1,1 +1,1 @@
-# Event-Management-System
+My project Event Management System  is based on difficulty I faced on my own experience. Whenever we search for a place suitable and affordable for our event we either do not know the actual venue site or we see pictures that do not match the site. Whenever a person plans for an event we require the information about the place such as pricing or how many people can be at venue. This trivial information is not available at some of the better event organizer's and planner's websites.
